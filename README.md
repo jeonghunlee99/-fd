@@ -1,7 +1,7 @@
 # <img src="https://github.com/user-attachments/assets/c7fc337c-f15a-4060-83be-8bbe8cb98ccd" width="30 " height="30"> MoodDiary
 
 
- **버튼으로 작성하는 간편한 일기 작성 앱**
+ >**버튼으로 작성하는 간편한 일기 작성 앱**
       
 ---
 
